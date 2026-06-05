@@ -7,14 +7,14 @@
     "TestingAssemblyVersion": null,
     "Description": "Lite version of Neko G Messenger with GIFs, emotes, image reactions, RP messages, DM popups and clickable links. No translation, no AI, no API required.",
     "Punchline": "GIFs, emotes and RP chat for Neko.",
-    "RepoUrl": "https://github.com/Golden/NekoGMessengerRepo",
+    "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Golden/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
-    "DownloadLinkTesting": "https://github.com/Golden/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
-    "DownloadLinkUpdate": "https://github.com/Golden/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
     "LastUpdate": "1780600000"
   }
 ]
