@@ -6,6 +6,7 @@
     "AssemblyVersion": "0.0.33.8",
     "TestingAssemblyVersion": null,
     "Description": "Lite Neko with GIFs, emotes, RP, DMs and clickable links.",
+    "Punchline": "GIFs, emotes and RP chat for Neko.",
     "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -14,6 +15,6 @@
     "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
     "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
     "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33i/NekoGMessengerLite.zip",
-    "LastUpdate": "1780600001"
+    "LastUpdate": "1780736869"
   }
 ]
