@@ -3,8 +3,8 @@
     "Author": "Golden Yuito",
     "Name": "Neko G Messenger Lite",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.34.2",
-    "Description": "Version Lite sans traduction/IA : Murmurer ChatTwoCore avec fix cible Tell, chat custom, DM, GIFs, emotes, xD chat+DM, réactions et RP simple.",
+    "AssemblyVersion": "0.0.34.5",
+    "Description": "Version Lite sans traduction/IA : Murmurer ChatTwoCore, DM, profils/couleurs partagés, GIFs, emotes inline, settings clarifiés, xD chat+DM, réactions et RP simple.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "Tags": [
@@ -22,8 +22,8 @@
     "LoadPriority": 0,
     "Punchline": "Chat custom / DM / GIFs / emotes pour FFXIV, sans traducteur.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.2/NekoGMessengerLite_0.0.34.2.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.2/NekoGMessengerLite_0.0.34.2.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.2/NekoGMessengerLite_0.0.34.2.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.5/NekoGMessengerLite_0.0.34.5.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.5/NekoGMessengerLite_0.0.34.5.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.5/NekoGMessengerLite_0.0.34.5.zip"
   }
 ]
