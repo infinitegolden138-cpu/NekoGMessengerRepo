@@ -22,8 +22,8 @@
     "LoadPriority": 0,
     "Punchline": "Chat custom / DM / GIFs / emotes pour FFXIV, sans traducteur.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/infinitegolden138-cpu/NekoGMessengerRepo/main/NekoGMessengerLite_0.0.34.2.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/infinitegolden138-cpu/NekoGMessengerRepo/main/NekoGMessengerLite_0.0.34.2.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/infinitegolden138-cpu/NekoGMessengerRepo/main/NekoGMessengerLite_0.0.34.2.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.2/NekoGMessengerLite_0.0.34.2.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.2/NekoGMessengerLite_0.0.34.2.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.2/NekoGMessengerLite_0.0.34.2.zip"
   }
 ]
