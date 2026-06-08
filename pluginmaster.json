@@ -3,18 +3,27 @@
     "Author": "Golden Yuito",
     "Name": "Neko G Messenger Lite",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.33.8",
-    "TestingAssemblyVersion": null,
-    "Description": "Lite Neko with GIFs, emotes, RP, DMs and clickable links.",
-    "Punchline": "GIFs, emotes and RP chat for Neko.",
-    "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
+    "AssemblyVersion": "0.0.34.1",
+    "Description": "Version Lite sans traduction/IA : Murmurer ChatTwoCore avec fix cible Tell, chat custom, DM, GIFs, emotes, xD chat+DM, réactions et RP simple.",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
+    "Tags": [
+      "chat",
+      "messenger",
+      "neko",
+      "gif",
+      "emote",
+      "lite"
+    ],
     "DalamudApiLevel": 15,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33k/NekoGMessengerLite.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33k/NekoGMessengerLite.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.33k/NekoGMessengerLite.zip",
-    "LastUpdate": "1780740001"
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Chat custom / DM / GIFs / emotes pour FFXIV, sans traducteur.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/infinitegolden138-cpu/NekoGMessengerRepo/main/NekoGMessengerLite.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/infinitegolden138-cpu/NekoGMessengerRepo/main/NekoGMessengerLite.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/infinitegolden138-cpu/NekoGMessengerRepo/main/NekoGMessengerLite.zip"
   }
 ]
