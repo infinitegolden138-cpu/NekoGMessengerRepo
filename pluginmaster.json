@@ -3,8 +3,8 @@
     "Author": "Golden Yuito",
     "Name": "Neko G Messenger Lite",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.36.2",
-    "Description": "Version Lite DM-only NoTranslator avec panneau XIM groupé: une ligne par personne, nom + dernier message, nouveaux DM ajoutés dans la même fenêtre verticale. Aucun chat principal Neko. Garde DM/Murmurer, GIFs, emotes, réactions, liens cliquables, profils partagés et Neko Network Auto Sync.",
+    "AssemblyVersion": "0.0.36.3",
+    "Description": "Version Lite DM-only NoTranslator avec vraie interface XIM dockée: liste verticale des conversations à gauche et DM sélectionné à droite, dans une seule fenêtre. Aucun chat principal Neko, aucun remplacement du ChatLog vanilla. Garde DM/Murmurer, GIFs, emotes, réactions, liens cliquables, profils partagés et Neko Network Auto Sync.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "Tags": [
@@ -21,10 +21,10 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "DM-only avec panneau XIM groupé, GIFs, emotes et réactions.",
+    "Punchline": "DM-only avec interface XIM dockée dans une seule fenêtre.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.2/NekoGMessengerLite_0.0.36.2.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.2/NekoGMessengerLite_0.0.36.2.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.2/NekoGMessengerLite_0.0.36.2.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.3/NekoGMessengerLite_0.0.36.3.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.3/NekoGMessengerLite_0.0.36.3.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.3/NekoGMessengerLite_0.0.36.3.zip"
   }
 ]
