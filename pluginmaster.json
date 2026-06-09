@@ -3,8 +3,8 @@
     "Author": "Golden Yuito",
     "Name": "Neko G Messenger Lite",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.34.6",
-    "Description": "Version Lite sans traduction/IA : Murmurer ChatTwoCore, DM, profils/couleurs partagés, GIFs, emotes inline, profils DM en fenêtre dédiée, xD chat+DM, réactions et RP simple.",
+    "AssemblyVersion": "0.0.35.7",
+    "Description": "Version Lite NoTranslator Deep Clean : DM/murmures, GIFs, emotes, réactions, liens cliquables, profils partagés et Neko Network Auto Sync. DeepL, Ollama, LLM, LibreTranslate et toute traduction/IA sont neutralisés côté Lite.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "Tags": [
@@ -13,6 +13,7 @@
       "neko",
       "gif",
       "emote",
+      "dm",
       "lite"
     ],
     "DalamudApiLevel": 15,
@@ -20,10 +21,10 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Chat custom / DM / GIFs / emotes pour FFXIV, sans traducteur.",
+    "Punchline": "DM / GIFs / emotes / réactions pour FFXIV, sans traducteur ni IA.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.6/NekoGMessengerLite_0.0.34.6.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.6/NekoGMessengerLite_0.0.34.6.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.34.6/NekoGMessengerLite_0.0.34.6.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.7/NekoGMessengerLite_0.0.35.7.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.7/NekoGMessengerLite_0.0.35.7.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.7/NekoGMessengerLite_0.0.35.7.zip"
   }
 ]
