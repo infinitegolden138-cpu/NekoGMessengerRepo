@@ -3,8 +3,8 @@
     "Author": "Golden Yuito",
     "Name": "Neko G Messenger Lite",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.36.9",
-    "Description": "Version Lite DM-only NoTranslator avec interface Neko dockée et masquable. Build fix CS0176 sur Configuration.DmOnlyBuild. La grande fenêtre peut être rouverte depuis une DM détachée uniquement avec le bouton Neko.",
+    "AssemblyVersion": "0.0.37.1",
+    "Description": "Version Lite DM-only NoTranslator avec grande fenêtre Neko, mini DM détachée et masquage automatique des fenêtres Neko en instance/devoir.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "Tags": [
@@ -21,10 +21,10 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "DM-only Neko: build fix.",
+    "Punchline": "DM-only Neko: masquage en instance.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.9/NekoGMessengerLite_0.0.36.9.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.9/NekoGMessengerLite_0.0.36.9.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.9/NekoGMessengerLite_0.0.36.9.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.1/NekoGMessengerLite_0.0.37.1.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.1/NekoGMessengerLite_0.0.37.1.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.1/NekoGMessengerLite_0.0.37.1.zip"
   }
 ]
