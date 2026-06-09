@@ -3,8 +3,8 @@
     "Author": "Golden Yuito",
     "Name": "Neko G Messenger Lite",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.35.8",
-    "Description": "Version Lite NoTranslator Installer Fix : DM/murmures, GIFs, emotes, réactions, liens cliquables, profils partagés et Neko Network Auto Sync. DeepL, Ollama, LLM, LibreTranslate et toute traduction/IA sont neutralisés côté Lite.",
+    "AssemblyVersion": "0.0.35.9",
+    "Description": "Version Lite NoTranslator Version Fix : corrige le décalage de version qui faisait échouer l’update Dalamud. DM/murmures, GIFs, emotes, réactions, liens cliquables, profils partagés et Neko Network Auto Sync. Aucune traduction/IA côté Lite.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "Tags": [
@@ -23,8 +23,8 @@
     "LoadPriority": 0,
     "Punchline": "DM / GIFs / emotes / réactions pour FFXIV, sans traducteur ni IA.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.8/NekoGMessengerLite_0.0.35.8.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.8/NekoGMessengerLite_0.0.35.8.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.8/NekoGMessengerLite_0.0.35.8.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.9/NekoGMessengerLite_0.0.35.9.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.9/NekoGMessengerLite_0.0.35.9.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.35.9/NekoGMessengerLite_0.0.35.9.zip"
   }
 ]
