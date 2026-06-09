@@ -3,8 +3,8 @@
     "Author": "Golden Yuito",
     "Name": "Neko G Messenger Lite",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.36.0",
-    "Description": "Version Lite DM-only NoTranslator : aucune fenêtre de chat principal Neko et aucun remplacement du ChatLog vanilla. Garde DM/Murmurer, GIFs, emotes, réactions, liens cliquables, profils partagés et Neko Network Auto Sync. Traduction/IA neutralisées.",
+    "AssemblyVersion": "0.0.36.2",
+    "Description": "Version Lite DM-only NoTranslator avec panneau XIM groupé: une ligne par personne, nom + dernier message, nouveaux DM ajoutés dans la même fenêtre verticale. Aucun chat principal Neko. Garde DM/Murmurer, GIFs, emotes, réactions, liens cliquables, profils partagés et Neko Network Auto Sync.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
     "Tags": [
@@ -21,10 +21,10 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "DM / Murmurer / GIFs / emotes / réactions, sans chat principal ni traducteur.",
+    "Punchline": "DM-only avec panneau XIM groupé, GIFs, emotes et réactions.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.0/NekoGMessengerLite_0.0.36.0.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.0/NekoGMessengerLite_0.0.36.0.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.0/NekoGMessengerLite_0.0.36.0.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.2/NekoGMessengerLite_0.0.36.2.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.2/NekoGMessengerLite_0.0.36.2.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.36.2/NekoGMessengerLite_0.0.36.2.zip"
   }
 ]
