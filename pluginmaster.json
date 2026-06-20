@@ -1,28 +1,22 @@
-{
-  "Author": "Golden Yuito",
-  "Name": "Neko G Messenger Lite",
-  "InternalName": "NekoGMessenger",
-  "AssemblyVersion": "0.0.37.3",
-  "Description": "Version Lite DM-only NoTranslator avec grande fenêtre Neko, mini DM détachée, masquage automatique en instance/devoir, GIF en code propre unique partagé et fix version build.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
-  "Tags": [
-    "chat",
-    "messenger",
-    "neko",
-    "gif",
-    "emote",
-    "dm",
-    "lite"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "DM-only Neko: GIF code propre unique.",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.3/NekoGMessengerLite_0.0.37.3.zip",
-  "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.3/NekoGMessengerLite_0.0.37.3.zip",
-  "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.3/NekoGMessengerLite_0.0.37.3.zip"
-}
+[
+  {
+    "Author": "Golden Yuito",
+    "Name": "Neko G Messenger Lite",
+    "InternalName": "NekoGMessenger",
+    "AssemblyVersion": "0.0.37.3",
+    "Description": "Version Lite DM-only NoTranslator avec grande fenetre Neko, mini DM detachee, hide in duty et GIF code propre unique.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo",
+    "Tags": ["chat", "messenger", "neko", "gif", "dm", "lite"],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "DM-only Neko: GIF code propre unique.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.3/NekoGMessengerLite_0.0.37.3.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.3/NekoGMessengerLite_0.0.37.3.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.3/NekoGMessengerLite_0.0.37.3.zip"
+  }
+]
