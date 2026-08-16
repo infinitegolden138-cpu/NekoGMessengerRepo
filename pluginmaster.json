@@ -1,18 +1,19 @@
 [
   {
     "Author": "Golden",
-    "Name": "Neko G Messenger Lite",
+    "Name": "Neko G Messenger AutoTranslate",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.37.4",
-    "Description": "Lite DM-only NoTranslator avec protocole GIF code propre unique pour tous les clients.",
-    "Punchline": "Neko DM messenger lite.",
+    "AssemblyVersion": "0.0.37.5",
+    "Description": "Neko Messenger DM avec GIFs et traduction automatique bidirectionnelle via Neko Translation Gateway.",
+    "Punchline": "Neko DM messenger avec GIFs et traduction automatique.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
       "chat",
       "dm",
       "neko",
-      "gif"
+      "gif",
+      "translation"
     ],
     "CategoryTags": [
       "utility"
@@ -21,8 +22,8 @@
     "IsTestingExclusive": false,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.4/NekoGMessengerLite_0.0.37.4.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.4/NekoGMessengerLite_0.0.37.4.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.4/NekoGMessengerLite_0.0.37.4.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.5/NekoGMessenger_AutoTranslate_0.0.37.5.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.5/NekoGMessenger_AutoTranslate_0.0.37.5.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.5/NekoGMessenger_AutoTranslate_0.0.37.5.zip"
   }
 ]
