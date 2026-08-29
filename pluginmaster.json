@@ -3,9 +3,9 @@
     "Author": "Golden",
     "Name": "Neko G Messenger AutoTranslate",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.38.1",
-    "Description": "Neko Messenger DM avec GIFs/emotes corrigés, traduction, profils sécurisés et Neko Network E2EE.",
-    "Punchline": "Neko DM + GIF fix + traduction + profils + E2EE entre instances.",
+    "AssemblyVersion": "0.0.38.2",
+    "Description": "Neko Messenger DM avec GIFs, emotes, traduction automatique, Neko Network E2EE, profils sécurisés et accès DM récents restauré.",
+    "Punchline": "Messenger Neko avec E2EE, profils, traduction, GIFs et DM récents.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -27,8 +27,8 @@
     "IsTestingExclusive": false,
     "DownloadCount": 0,
     "LastUpdate": 1787266250,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.1/NekoGMessenger_AutoTranslate_0.0.38.1.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.1/NekoGMessenger_AutoTranslate_0.0.38.1.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.1/NekoGMessenger_AutoTranslate_0.0.38.1.zip"
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.2/NekoGMessenger_AutoTranslate_0.0.38.2.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.2/NekoGMessenger_AutoTranslate_0.0.38.2.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.2/NekoGMessenger_AutoTranslate_0.0.38.2.zip"
   }
 ]
