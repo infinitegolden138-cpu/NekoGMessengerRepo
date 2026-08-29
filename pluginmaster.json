@@ -3,9 +3,9 @@
     "Author": "Golden",
     "Name": "Neko G Messenger AutoTranslate",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.37.9",
-    "Description": "Neko Messenger DM avec GIFs, emotes, traduction automatique intelligente et Neko Network DM entre utilisateurs Neko, même entre zones et instances.",
-    "Punchline": "Messenger Neko avec traduction, GIFs et messages Neko Network.",
+    "AssemblyVersion": "0.0.38.1",
+    "Description": "Neko Messenger DM avec GIFs/emotes corrigés, traduction, profils sécurisés et Neko Network E2EE.",
+    "Punchline": "Neko DM + GIF fix + traduction + profils + E2EE entre instances.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -15,7 +15,10 @@
       "gif",
       "emote",
       "translation",
-      "network"
+      "network",
+      "e2ee",
+      "privacy",
+      "profiles"
     ],
     "CategoryTags": [
       "utility"
@@ -23,9 +26,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.9/NekoGMessenger_AutoTranslate_0.0.37.9.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.9/NekoGMessenger_AutoTranslate_0.0.37.9.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.37.9/NekoGMessenger_AutoTranslate_0.0.37.9.zip"
+    "LastUpdate": 1787266250,
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.1/NekoGMessenger_AutoTranslate_0.0.38.1.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.1/NekoGMessenger_AutoTranslate_0.0.38.1.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.1/NekoGMessenger_AutoTranslate_0.0.38.1.zip"
   }
 ]
