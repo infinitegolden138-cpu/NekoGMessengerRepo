@@ -3,9 +3,9 @@
     "Author": "Golden",
     "Name": "Neko G Messenger AutoTranslate",
     "InternalName": "NekoGMessenger",
-    "AssemblyVersion": "0.0.38.2",
-    "Description": "Neko Messenger DM avec GIFs, emotes, traduction automatique, Neko Network E2EE, profils sécurisés et accès DM récents restauré.",
-    "Punchline": "Messenger Neko avec E2EE, profils, traduction, GIFs et DM récents.",
+    "AssemblyVersion": "0.0.38.6",
+    "Description": "Neko Messenger avec NekoPad Sanctum, DM inter-monde/inter-DC via Neko Network, Presence Pairing, chiffrement E2EE, profils, traduction automatique, GIFs et emotes.",
+    "Punchline": "NekoPad Sanctum : DM E2EE, Presence Pairing et Neko Network.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -17,8 +17,8 @@
       "translation",
       "network",
       "e2ee",
-      "privacy",
-      "profiles"
+      "profile",
+      "pairing"
     ],
     "CategoryTags": [
       "utility"
@@ -26,9 +26,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1787266250,
-    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.2/NekoGMessenger_AutoTranslate_0.0.38.2.zip",
-    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.2/NekoGMessenger_AutoTranslate_0.0.38.2.zip",
-    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.2/NekoGMessenger_AutoTranslate_0.0.38.2.zip"
+    "LastUpdate": 1788213300,
+    "DownloadLinkInstall": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.6/NekoGMessenger_AutoTranslate_0.0.38.6.zip",
+    "DownloadLinkUpdate": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.6/NekoGMessenger_AutoTranslate_0.0.38.6.zip",
+    "DownloadLinkTesting": "https://github.com/infinitegolden138-cpu/NekoGMessengerRepo/releases/download/v0.0.38.6/NekoGMessenger_AutoTranslate_0.0.38.6.zip"
   }
 ]
